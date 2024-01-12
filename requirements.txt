@@ -1,3 +1,4 @@
 colab-env
 pandas
 scikit-learn
+imbalanced-learn
